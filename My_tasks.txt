@@ -1,0 +1,4 @@
+- Understand language (DONE)
+- Syntax (DONE)
+- Competitive Programming (Working)
+- Improvements (Future)
